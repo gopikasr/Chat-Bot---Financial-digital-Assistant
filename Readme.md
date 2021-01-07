@@ -1,8 +1,10 @@
 # Chat-Bot--Financial+digital-Assistant
 A Chat Bot which can work as  a FINANCIAL + DIGITAL ASSISTANT CHATBOT using DEEPLEARNING & NATURAL LANGUAGE PROCESSING. And I proposed a name for the Chat Bot as Fin-Bot.
-(i)	Digital Assistant-> The chat bot is a perfect digital assistant in an e-commerce website to guide you through our shop by telling you the products available, the place with which the shop is located, the costs of the products etc- Its main speciality is "THIS CHATBOT WILL BARGAIN WITH THE CUSTOMER FOR A PRODUCT FOR THE COMPANY". 
-(ii)	Financial Assistant -> The chat bot can also answer you if you ask some terms in Financial Market, this will equip you so that you will get answer to the point. I have trained for about about 40 frequently used but so relevant terms in financial and Economic Market.(For eg: bitcoin, bank, crowd funding, real interest rate, liquidity etc-)
-DATA
+
+# (i)	Digital Assistant-> The chat bot is a perfect digital assistant in an e-commerce website to guide you through our shop by telling you the products available, the place with which the shop is located, the costs of the products etc- Its main speciality is "THIS CHATBOT WILL BARGAIN WITH THE CUSTOMER FOR A PRODUCT FOR THE COMPANY". 
+
+# (ii)	Financial Assistant -> The chat bot can also answer you if you ask some terms in Financial Market, this will equip you so that you will get answer to the point. I have trained for about about 40 frequently used but so relevant terms in financial and Economic Market.(For eg: bitcoin, bank, crowd funding, real interest rate, liquidity etc-)
+# DATA
 I created the dataset manually. For building a Chat Bot intent recognition is one
 of the important thing. The chat bot should understand what the customer or the person is saying
 and it should match it correctly with the corresponding tag which have the possible responses of
@@ -17,7 +19,7 @@ idea.
 In the above format I have manually created 47 tags with each having 4 or 5 patterns and responses.
 In the patterns, I added the possible questions that the customer might ask on the basis of the tag I defined. In the responses, I put the possible answers or comments
 that I need my Chat Bot to give back to the customer according to the tag. 
-STRATEGY/APPROACH FOLLOWED
+
 
 # The strategy is as follows:
 
