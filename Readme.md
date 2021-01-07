@@ -73,6 +73,10 @@ of 94%-96%. Also, it worked perfectly. Since, I trained it for about 42 tags and
 the terms used in financial market to the Chat Bot. So, when I ask it about some terms, it replies by randomly choosing one response form the “responses” after preprocessing using NLP and
 training with PyTorch Neural Network. 
 
+# All other details and the theoretical frame work is given in details in the following medium article.
+“A FINANCIAL + DIGITAL ASSISTANT CHATBOT(Fin-Bot) using DEEP LEARNING & NATURAL LANGUAGE PROCESSING” by Gopika S R 
+https://link.medium.com/pVJwtcyiRcb
+
 
 
 
